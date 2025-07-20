@@ -1,10 +1,15 @@
 # java-Assignment-6
 
 //Assignment 6
+
 import java.util.Scanner;
+
 class Main {
+
     public static void main(String[] args) {
+    
         Scanner sc=new Scanner (System.in);
+        
         
         System.out.print("Enter any digit between 0-9:");
         int number = sc.nextInt();
